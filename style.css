@@ -1,6 +1,21 @@
 body {
+}
+.principal {
     background: #ccccc;
 }
+padding: 30px;
 p{
     text-align: center;
+    body{
+        background: #ccccc;
+    }
+    #banner{
+        width: 100%;
+    }
+    p{
+        text-aling: center;
+    }
+    em strong{
+        color:#ff0000;
+    }
 }
